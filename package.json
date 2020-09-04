@@ -60,7 +60,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^21.0.2",
     "lighthouse": "^2.4.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^2.0.6",
     "prettier": "1.6.1",
     "pushstate-server": "3.0.1",
